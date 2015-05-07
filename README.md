@@ -1,5 +1,6 @@
 # docs
-Community documentation for news nerdery
+
+Community documentation for news nerdery. Moderated by [@danielbachhuber](http://github.com/danielbachhuber), [@davisshaver](http://github.com/davisshaver), and [@erikao](http://github.com/erikao)
 
 ## Related Documentation Efforts
 
