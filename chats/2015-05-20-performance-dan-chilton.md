@@ -4,6 +4,6 @@
 
 **When:** Wednesday, May 20th at 11 am PT / 2 pm ET.
 
-**Where:** `#watercooler` channel in the News Nerdery. [Request an invite](mailto:daniel.bachhuber@fusion.net?subject=Please+add+me+to+News+Nerdery+Slack) if you haven't already joined.
+**Where:** `#watercooler` channel in the News Nerdery. [Request an invite](mailto:daniel.bachhuber@fusion.net?subject=Please add me to News Nerdery Slack) if you haven't already joined.
 
 *Notes and key takeaways will be posted here after the chat.*
