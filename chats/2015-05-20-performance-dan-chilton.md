@@ -6,7 +6,7 @@ You can read the [full chat in Slack archives](https://newsnerdery.slack.com/arc
 
 ### Q1: I’m new to frontend performance. What should I look for, and how should I look for it?
 
-* Page load time, specifically to get the page load time as low as possible. Two tools you can use are Chrome's Dev tools network tab and [Web Page Test](http://www.webpagetest.org/). You should also track page weight (e.g. size in MB) and the number of HTTP requests.
+* JO: Page load time, specifically to get the page load time as low as possible. Two tools you can use are Chrome's Dev tools network tab and [Web Page Test](http://www.webpagetest.org/). You should also track page weight (e.g. size in MB) and the number of HTTP requests.
 * Page load time isn't the time to load everything, though. 
 * Q: Thoughts on perceived performance?
 * Paul Irish just had a GREAT talk at FluentConf [about thinking about performance as his “RAIL” idea](http://fluentconf.com/javascript-html-2015/public/schedule/detail/40733).
