@@ -37,3 +37,5 @@ This field guide is meant to be useful primarily for college students and profes
 ### Lean
 ### Test-driven development
 ## More resources
+### Blog posts
+- [How to be happy in journalism if you hate being a reporter](https://medium.com/thoughts-on-journalism/how-be-happy-in-journalism-if-you-hate-being-a-reporter-330455b87aec) (Medium, Julia Haslanger)
