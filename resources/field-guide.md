@@ -57,3 +57,5 @@ QA and support team members vary in their level of technical ability. Some teams
 ## More resources
 ### Blog posts
 - [How to be happy in journalism if you hate being a reporter](https://medium.com/thoughts-on-journalism/how-be-happy-in-journalism-if-you-hate-being-a-reporter-330455b87aec) (Medium, Julia Haslanger)
+- [The need for product management in media](https://medium.com/@sundve/the-need-for-product-management-in-media-fe02cddf5ec3) (Medium, Espen Sundve)
+- [Editor, product manage thyself](https://medium.com/technology-liberal-arts/editor-product-manage-thyself-b057af9c483e) (Paul Smalera)
