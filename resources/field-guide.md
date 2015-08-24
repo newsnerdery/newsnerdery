@@ -11,8 +11,8 @@ Analytics engineers wrangle the sea of data available to the modern media organi
 #### CMS 
 CMS engineers work on the publishing systems used by news organizations. The most common open source publishing systems are WordPress, Django, and Drupal, but there are also dozens of commercial and proprietary systems used at all types of organizations, including CMS particularly suited for video workflows or print workflows. The languages used by the CMS developer vary by platform, but the most common are Python and PHP.
 
-#### DevOps
-Developer operations engineers are generally found in larger organizations, as the DevOps primary responsibility is ensuring  predictable and scalable performance of an organization's technology stack. DevOps engineers tend to be fluent in use of *nix command line interfaces, as well as with virtualization, container, and deployment tools like Vagrant, Docker, or Capistrano, and with cloud computing providers like RackSpace or Amazon Web Services.
+#### Operations
+Operations engineers are generally found in larger organizations, as the ops engineer's primary responsibility is ensuring  predictable and scalable performance of an organization's technology stack. Ops engineers tend to be fluent in use of *nix command line interfaces, as well as with virtualization, container, and deployment tools like Vagrant, Docker, or Capistrano, and with cloud computing providers like RackSpace or Amazon Web Services. Automation, including configuration management and continuous integration/deployment, is a core skill for this type of engineer.
 
 #### Frontend
 Frontend engineers transform design concepts into interactive web pages using HTML, CSS, and JavaScript. Some frontend engineers also do some measure of user interface design and user experience design, though this varies by team. Frontend engineers have a big influence on perceived site performance.
