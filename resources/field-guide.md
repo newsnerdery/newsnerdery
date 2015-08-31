@@ -33,8 +33,12 @@ QA and support team members vary in their level of technical ability. Some teams
 ## The tools
 ### Programming languages
 #### JavaScript
+Previously the domain only of the browser, JavaScript has become the foremost "full stack" language. It is one of the most permissive of the languages in this list, being untyped and dynamic. It can be written "raw," or via one of the many preprocessors ([CoffeeScript](http://coffeescript.org/) and [TypeScript](http://www.typescriptlang.org/) being two examples). [Node.js](https://nodejs.org/) allows developers to write JavaScript to handle back end processes; however, while excellent for high-throughput tasks, Node.js performs poorly for computationally intensive tasks. 
+
 #### Objective C
 #### PHP
+Originally little more than a templating language for C, PHP has grown to become one of the most ubiquitous server-side web languages. It has a light learning curve and a wealth of resources available. Most new web projects written in PHP make use of one of its many frameworks; [Laravel](http://laravel.com/) and [Symfony](https://symfony.com/) are the most popular. PHP's greatest weakness is its ambiguity and vaguely psychitzophrenic organization; its greatest strength is its community and the resources built up for it over the years.
+
 #### Python
 #### Swift
 ### Programming tools
