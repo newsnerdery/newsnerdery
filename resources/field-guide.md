@@ -49,6 +49,8 @@ Originally little more than a templating language for C, PHP has grown to become
 #### IDE
 #### Text Editor
 #### Unit Tests
+A unit test is the core building block of [test-driven development](#test-driven-development). It tests the essence of a function. Unit tests should be written for all functions that take parameters and produce output. They should also be written for the "integration" of the various functions to test the final result. Refer to the TDD section of the field guide for more on this topic.
+ 
 ### Product management tools
 #### Invision
 #### OmniGraffle/Basalmiq
