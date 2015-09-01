@@ -57,6 +57,29 @@ Originally little more than a templating language for C, PHP has grown to become
 ## The methodologies
 ### Agile
 ### Human-centered design
+Human-centered design is the process of exploring and understanding needs, wants, and habits of a target audience in order to create products and experiences that fit into their lives, as opposed to products that require a significant change in behavior in order to be used.
+
+HCD is a design process championed by IDEO and its founder, David Kelley. [His TED talk is a great introduction to the discipline.](http://www.ted.com/talks/david_kelley_on_human_centered_design?language=en)
+
+Here is the general arc of an HCD process as illustrated by IDEO in [its toolkit (PDF)](http://www.ideo.com/images/uploads/hcd_toolkit/IDEO_HCD_ToolKit.pdf):
+![toolkit_arc](https://cloud.githubusercontent.com/assets/1636964/9603383/6673d20c-507e-11e5-9417-c9ab2293b652.png)
+
+A typical HCD cycle might entail the following:
+
+1. Project overview – what is the problem to be solved? Previously discovered quantitative and qualitative data should be made available at this stage, as well as any examples of how other bodies have attempted to solve the same problem.
+2. Interviews – who are the users? who are the stakeholders? How do they talk about the problem? How does it fit into their larger life story? 
+3. Persona development– how do the users compare to each other? What attributes or experiences seem common? Can we develop archetypes, or personas, that organize our individuals in a way that allows them to be referenced without mentioning a specific individual? Do we see opportunities that seem to transcend the personas?
+4. Brainstorm – how might we target the opportunities identified in the previous stage? [IDEO's ground rules for brainstorming](https://openideo.com/blog/seven-tips-on-better-brainstorming) are immensely helpful here. 
+5. Prototyping – how might we turn our brainstorm output into something more concrete? Paper prototypes are valuable in this stage, because they are cheap and quick. For prototypes, it's helpful to begin asking and answering questions about desirability, feasibility, usefulness, usability, and viability.
+6. Feedback – Air out the most promising ideas from the prototyping stage. Talk to stakeholders who would be responsible, or involved, in delivering the ultimate product. Try to explore the same aspects mentioned above – desirability, feasibility, usefulness, usability, and viability. 
+7. Deliver – At this point, the HCD process becomes more of a traditional agile/lean project. What is the business model? What are the metrics at each point of the delivery pipeline? How can you measure the value-add? What would an incremental delivery of the idea entail? 
+
+HCD is best thought of as a framework to escape your own biases and preconceptions. It focuses, ruthlessly, on delivering value to users in the most effective and efficient way possible. 
+
+<img width="665" alt="screen shot 2015-09-01 at 8 29 43 am" src="https://cloud.githubusercontent.com/assets/1636964/9604171/cf16c6a2-5083-11e5-8a60-fcecdbcb2d57.png">
+
+HCD is a process that can be applied throughout the lifecycle of a product, as the above illustration from IDEO illustrates, and it complements the other methodologies mentioned here.
+
 ### Jobs to be done
 ### Lean
 ### Test-driven development
