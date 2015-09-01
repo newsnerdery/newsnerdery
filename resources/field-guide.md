@@ -60,6 +60,20 @@ Originally little more than a templating language for C, PHP has grown to become
 ### Jobs to be done
 ### Lean
 ### Test-driven development
+Test-driven development (TDD) lets you [move fast without breaking things](http://fusion.net/story/129411/move-fast-and-dont-break-things/). TDD is a methodology of development that starts with writing a "test" for whatever bug or feature is being added to the application. In true TDD, the developer's first commit will generally be a failing test for the bug or feature. When the commit is pushed to a version control server, a continuous integration (CI) like [Travis](https://travis-ci.org/) or [Jenkins](https://jenkins-ci.org/) will run the tests automatically, providing feedback to the developer about the failure or passage of the test suite.
+
+As noted in the blog post linked above, the TDD loop goes something like this:
+
+1. The developer writes a test and runs it.
+1. The test fails and the build goes red.
+1. The developer writes code to fix the test and repeats it.
+1. The test passes and the build goes green.
+1. The developer refactors as needed and runs the test again.
+
+The repeated and systematic use of TDD and CI allows developers to move aggressively on the development of new features while also ensuring that all the features previously developed don't break through the introduction of a "regression", the formal term for when you screw something up. 
+
+Different programming languages have their own unit test frameworks – some examples include [PHPUnit](https://phpunit.de/) for PHP, [RSpec](http://rspec.info/) for Ruby, [Jasmine](http://jasmine.github.io/) for JavaScript, and [pytest](http://pytest.org/) for Python.
+
 ## More resources
 ### Blog posts
 - [How to be happy in journalism if you hate being a reporter](https://medium.com/thoughts-on-journalism/how-be-happy-in-journalism-if-you-hate-being-a-reporter-330455b87aec) (Medium, Julia Haslanger)
