@@ -55,6 +55,14 @@ A unit test is the core building block of [test-driven development](#test-driven
 #### Invision
 #### OmniGraffle/Basalmiq
 #### Sketch
+For over a decade, Adobe Photoshop and Illustrator have been unavoidable staples of the web design process, despite the fact that neither was really built with that workflow in mind. Then Sketch came along. 
+
+A web-first tool for mockups and illustrations, Sketch is the favoured alternative taking over the industry. The program’s features — such as artboards with pre-set mobile dimensions — are built with responsive web in mind. 
+
+Sketch will even attempt to write corresponding CSS, a great first step as you flesh out your webpage. Add in an active community developing plugins for everything from Slack integration to animation and you’ve got a lightweight tool that grows when you need it to. 
+
+Bonus: its clean interface and stripped-down functionality makes it way easier to learn than Illustrator. Even better, it’s only $99. 
+
 #### Trello
 ## The methodologies
 ### Agile
