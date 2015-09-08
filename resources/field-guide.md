@@ -55,7 +55,7 @@ A unit test is the core building block of [test-driven development](#test-driven
 #### Invision
 #### OmniGraffle/Basalmiq
 #### Sketch
-For over a decade, Adobe Photoshop and Illustrator have been unavoidable staples of the web design process, despite the fact that neither was really built with that workflow in mind. Then Sketch came along. 
+For over a decade, Adobe Photoshop and Illustrator have been unavoidable staples of the web design process, despite the fact that neither was really built with that workflow in mind. Then [Sketch](http://bohemiancoding.com/sketch/) came along. 
 
 A web-first tool for mockups and illustrations, Sketch is the favoured alternative taking over the industry. The program’s features — such as artboards with pre-set mobile dimensions — are built with responsive web in mind. 
 
