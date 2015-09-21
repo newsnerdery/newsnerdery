@@ -47,13 +47,19 @@ Originally little more than a templating language for C, PHP has grown to become
 #### Git
 #### Github
 #### IDE
+Integrated development environments (IDE's) are comprehensive software development tools. Components can include a text editor, build/test automation tools, debugging utilities, and deployment mechanisms. Examples of IDE's include [Visual Studio](https://www.visualstudio.com/en-us/visual-studio-homepage-vs.aspx), [Eclipse](https://eclipse.org/downloads/), and [NetBeans](https://netbeans.org/).
+
 #### Text Editor
+A text editor is exactly what it says on the tin – a software programming for editing text files. On *nix, the two bigges are Vim and Emacs, but most developers you encounter are likely to use a Mac and develop in [Sublime](http://www.sublimetext.com/), [Atom](https://atom.io/), or [TextWrangler](http://www.barebones.com/products/textwrangler/). Modern text editors are generally known for their extensibility, allowing engineers to either load or write-from-scratch plugins that do things like syntax detection, linting, or format conversion. Customizing their text editor (and their terminal) is the closest the modern engineer gets to choosing his or her wand at Ollivanders. 
+ 
 #### Unit Tests
 A unit test is the core building block of [test-driven development](#test-driven-development). It tests the essence of a function. Unit tests should be written for all functions that take parameters and produce output. They should also be written for the "integration" of the various functions to test the final result. Refer to the TDD section of the field guide for more on this topic.
  
 ### Product management tools
-#### Invision
 #### OmniGraffle/Basalmiq
+[OmniGraffle](https://www.omnigroup.com/omnigraffle) and [Balsamiq](https://balsamiq.com/) are tools popular for wireframing, the laying out of an interface using crude or "low-fidelity" stand-ins for the actual elements. Wireframes are an important part of the product development process, in which designers and product managers work from the abstract up to the concrete. This concept is well illustrated in Jesse James Garrett's [Elements of User Experience](http://www.jjg.net/elements/):
+![uxpin-elements-of-user-experience-by-jesse-james-garrett](https://cloud.githubusercontent.com/assets/1636964/10003956/235673d0-607d-11e5-880c-dfa45d0f4d82.jpg)
+
 #### Sketch
 For over a decade, Adobe Photoshop and Illustrator have been unavoidable staples of the web design process, despite the fact that neither was really built with that workflow in mind. Then [Sketch](http://bohemiancoding.com/sketch/) came along. 
 
@@ -61,10 +67,10 @@ A web-first tool for mockups and illustrations, Sketch is the favoured alternati
 
 Sketch will even attempt to write corresponding CSS, a great first step as you flesh out your webpage. Add in an active community developing plugins for everything from Slack integration to animation and you’ve got a lightweight tool that grows when you need it to. 
 
-Bonus: its clean interface and stripped-down functionality makes it way easier to learn than Illustrator. Even better, it’s only $99. 
+Bonus: its clean interface and stripped-down functionality makes it way easier to learn than Illustrator. Even better, it’s only $99.
 
 #### Trello
-Trello is a list-based collaborative project management tool. A user can curate a Trello `board` made up of `lists` that can contain `cards`. Individual cards can have due dates, checklists, associated users, labels, and other metadata. Comments can be left on cards and other users may be mentioned to track the progress of large or multi-stakeholder projects. Like Slack, Trello has begun offering deeper integrations to popular services like Github, DropBox, Google Docs, Evernote, and (naturally) Slack.
+[Trello](https://trello.com/) is a list-based collaborative project management tool. A user can curate a Trello `board` made up of `lists` that can contain `cards`. Individual cards can have due dates, checklists, associated users, labels, and other metadata. Comments can be left on cards and other users may be mentioned to track the progress of large or multi-stakeholder projects. Like Slack, Trello has begun offering deeper integrations to popular services like Github, DropBox, Google Docs, Evernote, and (naturally) Slack.
 
 ## The methodologies
 ### Agile
