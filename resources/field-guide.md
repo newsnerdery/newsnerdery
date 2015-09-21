@@ -64,6 +64,8 @@ Sketch will even attempt to write corresponding CSS, a great first step as you f
 Bonus: its clean interface and stripped-down functionality makes it way easier to learn than Illustrator. Even better, it’s only $99. 
 
 #### Trello
+Trello is a list-based collaborative project management tool. A user can curate a Trello `board` made up of `lists` that can contain `cards`. Individual cards can have due dates, checklists, associated users, labels, and other metadata. Comments can be left on cards and other users may be mentioned to track the progress of large or multi-stakeholder projects. Like Slack, Trello has begun offering deeper integrations to popular services like Github, DropBox, Google Docs, Evernote, and (naturally) Slack.
+
 ## The methodologies
 ### Agile
 ### Human-centered design
