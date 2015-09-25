@@ -38,8 +38,25 @@ QA and support team members vary in their level of technical ability. Some teams
 #### Python
 #### Swift
 ### Programming tools
+
 #### Git
+
+Git is version control system. It provides distributed, non-linear workflows that are particularly compatible with the agile methodology and collaborative development. The advantage of Git includes the ability to produce consistent change logs (_commits_), compare differences between different commits (_diff_), and branch off of a particular version. “As in any VCS, you can lose or mess up changes you haven’t committed yet; but after you commit a snapshot into Git, it is very difficult to lose, especially if you regularly push your database to another repository.”([source](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics#Git-Generally-Only-Adds-Data)) You can use git on your local machine only, but to harness the power of an asynchronous workflow, it’s a good idea to pair it up with a remote destination (GitHub being one of the most popular of them.)
+
+**Terminologies**: `git init`, local, stage (`git add`), `git commit`, `git branch`, `git merge`
+
+Learn more in basic workflow in [this tutorial](https://try.github.io).
+
 #### Github
+
+GitHub is a web-based Git repository hosting service. It’s utilized Git for source code management, while providing coders and non-coders along an interface to access commit logs. “It also provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project.”([source](https://en.wikipedia.org/wiki/GitHub))
+
+GitHub has become the hub of open-source software projects since its birth in 2007, and has evolved into a social platform for contributors. In hiring, a GitHub profile can supplement one’s resume to demonstrate problem-solving process and coding ability. Individuals and teams can set up free public repositories, and pay for private repos (a similar private service is [BitBucket](https://bitbucket.org/).)
+
+More terminologies: `git clone`, `git push`, `git pull`, fork, PR (pull request), issue queue
+
+Register a GitHub account and learn more in [this guide](http://rogerdudler.github.io/git-guide/).
+
 #### IDE
 #### Text Editor
 #### Unit Tests
@@ -50,6 +67,11 @@ QA and support team members vary in their level of technical ability. Some teams
 #### Trello
 ## The methodologies
 ### Agile
+
+Agile is a management method that aims to deliver products iteratively and efficiently, and works best in a collaborative, open, and non-hierarchy-driven team structure. The management is distributed across the team rather than with a single manager. Started out in the realm of software development, the agile methodology has been adopted by other fields. For example, a digital news product team could include editors, designers, developers, and a product manager. Designers work with editors to think through UX; developers advise designers about UI and data management; the product manager makes sure everyone is contributing constructively, adjust expectations, and sets milestones.
+
+Scrum is a popular technique in agile management: team members conduct very short meetings where they list what they have done, what they are working on, and what is blocking them. Popular tools used by agile teams are Slack, Trello, and GitHub.
+
 ### Human-centered design
 ### Jobs to be done
 ### Lean
