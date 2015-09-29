@@ -42,6 +42,11 @@ Previously the domain only of the browser, JavaScript has recently become the fo
 Originally little more than a templating language for C, PHP has grown to become one of the most ubiquitous server-side web languages. It has a light learning curve and a wealth of resources available. Most new web projects written in PHP make use of one of its many frameworks; [Laravel](http://laravel.com/) and [Symfony](https://symfony.com/) are the most popular. PHP's greatest weakness is its ambiguity and vaguely schizophrenic organization; its greatest strength is its community and the resources built up for it over the years. [WordPress](http://wordpress.org/) and [Drupal](https://www.drupal.org) are both written in PHP. 
 
 #### Python
+Python is a very general-purpose language - you'll find it in Web applications, data analysis, desktop software and scripts for system administrators, among other uses. Among Web developers, it might be best known for its use with the [Django](https://djangoproject.com/) framework, which was first developed at a newspaper, the Lawrence (Kan.) Journal-World. Python source code tends to have a distinctive look, since the indentation of different lines of code is significant to how the code is run.
+
+#### Ruby
+Ruby is another general-purpose language and competes with Python in many respects; if one developer uses Python for a task, another almost certainly will do the same in Ruby. It's most popular for its Web framework [Ruby on Rails](http://rubyonrails.org/). Through some quirk of history, editorial-side developers using Ruby seem to tend to work for New York-based organizations.
+
 #### Swift
 ### Programming tools
 #### Git
