@@ -50,7 +50,21 @@ Ruby is another general-purpose language and competes with Python in many respec
 #### Swift
 ### Programming tools
 #### Git
+Git is version control system. It provides distributed, non-linear workflows that are particularly compatible with the agile methodology and collaborative development. The advantage of Git includes the ability to produce consistent change logs (_commits_), compare differences between different commits (_diff_), and branch off a particular version. “As in any VCS, you can lose or mess up changes you haven’t committed yet; but after you commit a snapshot into Git, it is very difficult to lose, especially if you regularly push your database to another repository.”([source](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics#Git-Generally-Only-Adds-Data)) You can use git on your local machine only, but to harness the power of an asynchronous workflow, it’s a good idea to pair it up with a remote destination (GitHub being one of the most popular).
+
+**Terminologies**: `git init`, local, stage (`git add`), `git commit`, `git push`, `git pull`, `git branch`, `git merge`, `git clone`
+
+Learn more in basic workflow in [this tutorial](https://try.github.io).
+
 #### Github
+GitHub is a web-based Git repository hosting service. Using Github for your Git-based source code management allows coders and non-coders both to access commit logs using a graphical interface. “It also provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project.”([source](https://en.wikipedia.org/wiki/GitHub))
+
+GitHub has become the hub of open-source software projects since its birth in 2007, and has evolved into a social platform for contributors. When hiring or applying for jobs, a GitHub profile can supplement one’s resume to demonstrate problem-solving process and coding ability. Individuals and teams can set up free public repositories, and pay for private repos (a similar private service is [BitBucket](https://bitbucket.org/)).
+
+More terminologies: `fork`, `pull request`
+
+Register a GitHub account and learn more in [this guide](http://rogerdudler.github.io/git-guide/).
+
 #### IDE
 Integrated development environments (IDE's) are comprehensive software development tools. Components can include a text editor, build/test automation tools, debugging utilities, and deployment mechanisms. Examples of IDE's include [Visual Studio](https://www.visualstudio.com/en-us/visual-studio-homepage-vs.aspx), [Eclipse](https://eclipse.org/downloads/), and [NetBeans](https://netbeans.org/).
 
@@ -79,6 +93,10 @@ Bonus: its clean interface and stripped-down functionality makes it way easier t
 
 ## The methodologies
 ### Agile
+Agile is a management method that aims to deliver products iteratively and efficiently, and works best in a collaborative, open, and non-hierarchical team structure. The management is distributed across the team rather than with a single manager. After becoming popular in the software development community, agile methodology has been adopted by other fields. For example, a digital news product team could include editors, designers, developers, and a product manager. Designers work with editors to think through UX; developers advise designers about UI and data management; the product manager makes sure everyone is contributing constructively, adjust expectations, and sets milestones.
+
+Scrum is a popular technique in agile management: team members conduct very short meetings where they list what they have done, what they are working on, and what is blocking them. Popular tools used by agile teams are Slack, Trello, and GitHub.
+
 ### Human-centered design
 Human-centered design is the process of exploring and understanding needs, wants, and habits of a target audience in order to create products and experiences that fit into their lives, as opposed to products that require a significant change in behavior in order to be used.
 
