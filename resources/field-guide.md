@@ -1,5 +1,5 @@
 # Field Guide to tech + product
-The world of media tech + product can be confusing at first. As a newly professionalized division within media companies (borne out of startup culture and legacy IT departments), these jobs, tools, and work can be confusing until you've actually worked within a company that has these cultures & seen how they operate.
+The world of media tech + product can be confusing at first. As a newly professionalized division within media companies (borne jointly out of startup culture and legacy IT departments), these jobs, tools, and work can be confusing until you've actually worked within a company that has these cultures & observed how they operate.
 
 This field guide is meant to be useful primarily for college students and professors trying to become acquainted with this field, in hopes that we might help address [the pipeline problem](http://davisshaver.com/2015/08/18/weve-got-a-pipeline-problem-in-media-tech-product/) our industry currently faces.
 
@@ -119,8 +119,6 @@ HCD is best thought of as a framework to escape your own biases and preconceptio
 
 HCD is a process that can be applied throughout the lifecycle of a product, as the above illustration from IDEO illustrates, and it complements the other methodologies mentioned here.
 
-### Jobs to be done
-### Lean
 ### Test-driven development
 Test-driven development (TDD) lets you [move fast without breaking things](http://fusion.net/story/129411/move-fast-and-dont-break-things/). TDD is a methodology of development that starts with writing a "test" for whatever bug or feature is being added to the application. In true TDD, the developer's first commit will generally be a failing test for the bug or feature. When the commit is pushed to a version control server, a continuous integration (CI) like [Travis](https://travis-ci.org/) or [Jenkins](https://jenkins-ci.org/) will run the tests automatically, providing feedback to the developer about the failure or passage of the test suite.
 
