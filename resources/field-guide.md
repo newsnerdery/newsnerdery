@@ -1,4 +1,4 @@
-# Field Guide to tech + product
+# Field Guide to Media Tech + Product
 The world of media tech + product can be confusing at first. As a newly professionalized division within media companies (borne jointly out of startup culture and legacy IT departments), these jobs, tools, and work can be confusing until you've actually worked within a company that has these cultures & observed how they operate.
 
 This field guide is meant to be useful primarily for college students and professors trying to become acquainted with this field, in hopes that we might help address [the pipeline problem](http://davisshaver.com/2015/08/18/weve-got-a-pipeline-problem-in-media-tech-product/) our industry currently faces.
