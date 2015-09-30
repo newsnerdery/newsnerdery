@@ -37,7 +37,6 @@ Despite its name, JavaScript has little in common with Java. JavaScript's first 
 
 Previously the domain only of the browser, JavaScript has recently become the foremost "full stack" language. It is one of the most permissive of the languages in this list, being untyped and dynamic. It can be written "raw," or via one of the many preprocessors ([CoffeeScript](http://coffeescript.org/) and [TypeScript](http://www.typescriptlang.org/) being two examples). [Node.js](https://nodejs.org/) allows developers to write JavaScript to handle back end processes; however, while excellent for high-throughput tasks, Node.js performs poorly for computationally intensive tasks. 
 
-#### Objective C
 #### PHP
 Originally little more than a templating language for C, PHP has grown to become one of the most ubiquitous server-side web languages. It has a light learning curve and a wealth of resources available. Most new web projects written in PHP make use of one of its many frameworks; [Laravel](http://laravel.com/) and [Symfony](https://symfony.com/) are the most popular. PHP's greatest weakness is its ambiguity and vaguely schizophrenic organization; its greatest strength is its community and the resources built up for it over the years. [WordPress](http://wordpress.org/) and [Drupal](https://www.drupal.org) are both written in PHP. 
 
@@ -47,7 +46,6 @@ Python is a very general-purpose language - you'll find it in Web applications, 
 #### Ruby
 Ruby is another general-purpose language and competes with Python in many respects; if one developer uses Python for a task, another almost certainly will do the same in Ruby. It's most popular for its Web framework [Ruby on Rails](http://rubyonrails.org/). Through some quirk of history, editorial-side developers using Ruby seem to tend to work for New York-based organizations.
 
-#### Swift
 ### Programming tools
 #### Git
 Git is version control system. It provides distributed, non-linear workflows that are particularly compatible with the agile methodology and collaborative development. The advantage of Git includes the ability to produce consistent change logs (_commits_), compare differences between different commits (_diff_), and branch off a particular version. “As in any VCS, you can lose or mess up changes you haven’t committed yet; but after you commit a snapshot into Git, it is very difficult to lose, especially if you regularly push your database to another repository.”([source](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics#Git-Generally-Only-Adds-Data)) You can use git on your local machine only, but to harness the power of an asynchronous workflow, it’s a good idea to pair it up with a remote destination (GitHub being one of the most popular).
