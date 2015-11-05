@@ -6,7 +6,7 @@ This field guide is meant to be useful primarily for college students and profes
 ## The roles
 ### Engineering
 #### Analytics/Data Science
-Analytics engineers wrangle the sea of data available to the modern media organizations, trying to turn signal into noise. Their go-to programming languages are Python and R, and they also use proprietary systems such as Google Analytics, Omniture, Tableau, and many others. 
+Analytics engineers wrangle the sea of data available to the modern media organizations, trying to spot the signal in the noise. Their go-to programming languages are Python and R, and they also use proprietary systems such as Google Analytics, Omniture, Tableau, and many others. 
 
 #### CMS 
 CMS engineers work on the publishing systems used by news organizations. The most common open source publishing systems are WordPress, Django, and Drupal, but there are also dozens of commercial and proprietary systems used at all types of organizations, including CMS particularly suited for video workflows or print workflows. The languages used by the CMS developer vary by platform, but the most common are Python and PHP.
