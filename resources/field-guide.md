@@ -8,7 +8,7 @@ This field guide is meant to be useful primarily for college students and profes
 #### Analytics/Data Science
 Analytics engineers wrangle the sea of data available to the modern media organizations, trying to spot the signal in the noise. Their go-to programming languages are Python and R, and they also use proprietary systems such as Google Analytics, Omniture, Tableau, and many others. 
 
-#### CMS 
+#### CMS / Back-end
 CMS engineers work on the publishing systems used by news organizations. The most common open source publishing systems are WordPress, Django, and Drupal, but there are also dozens of commercial and proprietary systems used at all types of organizations, including CMS particularly suited for video workflows or print workflows. The languages used by the CMS developer vary by platform, but the most common are Python and PHP.
 
 #### Operations
@@ -16,6 +16,9 @@ Operations engineers are generally found in larger organizations, as the ops eng
 
 #### Frontend
 Frontend engineers transform design concepts into interactive web pages using HTML, CSS, and JavaScript. Some frontend engineers also do some measure of user interface design and user experience design, though this varies by team. Frontend engineers have a big influence on perceived site performance.
+
+#### DevOps
+When this term first came out, it referred mainly to tools used by "developers" (any of the above roles) to assist in provisioning server resources and deployment. Now it is frequently a role in itself. Where as the traditional Operations Engineer (above) is focused primarily on maintaing the production systems that provide services to end-users, the DevOps Engineer is focused on maintaining tools and systems that help other Engineers keeping doing their jobs smoothly. They will use many of the same tools as an Operations Engineer (Vagrant, Docker, Configuration management, Version Control Systems), but for the purpose up building up development environments, when it is not practical or desirable to directly replicate production environments. Some companies don't distinguish between DevOps and Production Operations, and may refer to such combined roles by either name.
 
 ### Product/UX
 #### Product Manager
@@ -89,11 +92,18 @@ Bonus: its clean interface and stripped-down functionality makes it way easier t
 #### Trello
 [Trello](https://trello.com/) is a list-based collaborative project management tool. A user can curate a Trello `board` made up of `lists` that can contain `cards`. Individual cards can have due dates, checklists, associated users, labels, and other metadata. Comments can be left on cards and other users may be mentioned to track the progress of large or multi-stakeholder projects. Like Slack, Trello has begun offering deeper integrations to popular services like Github, DropBox, Google Docs, Evernote, and (naturally) Slack.
 
+#### Jira
+A popular and feature-rich software project management system that can be configured for a wide range of use cases and methodologies. Where newer systems like Trello and PivotalTracker focus on doing one thing well, with a presupposition of an Agile methodology, Jira has plug-ins and configurability to serve any conceivable workflow, inclduing Waterfall Project Management, Help Desk Operations, Kanban & Scrum methodologies.  
+
 ## The methodologies
 ### Agile
 Agile is a management method that aims to deliver products iteratively and efficiently, and works best in a collaborative, open, and non-hierarchical team structure. The management is distributed across the team rather than with a single manager. After becoming popular in the software development community, agile methodology has been adopted by other fields. For example, a digital news product team could include editors, designers, developers, and a product manager. Designers work with editors to think through UX; developers advise designers about UI and data management; the product manager makes sure everyone is contributing constructively, adjust expectations, and sets milestones.
 
-Scrum is a popular technique in agile management: team members conduct very short meetings where they list what they have done, what they are working on, and what is blocking them. Popular tools used by agile teams are Slack, Trello, and GitHub.
+*Scrum* is a popular technique in agile management: team members conduct very short meetings where they list what they have done, what they are working on, and what is blocking them. Popular tools used by agile teams are Slack, Trello, and GitHub. The "Scrum Meeting" (a.k.a "Stand-up") is just one part of the Scrum Methodology, a sub-type of Agile, which also includes the use of task decomposition into User Stories, organizinged into Sprints durinng periodic Release Planning Meetings and Sprint Planning Meetings. 
+
+*Kanban* is another type of Agile Development which escrews planning of multiple User Stories in groups in favor of a persistent queue of tasks which developers are expected to work on one at a time. 
+
+*XP* (originally meaning "Extreme Programming") is another Agile approach that popularized test-driven development, and also emphasizes the value of pair-programming. 
 
 ### Human-centered design
 Human-centered design is the process of exploring and understanding needs, wants, and habits of a target audience in order to create products and experiences that fit into their lives, as opposed to products that require a significant change in behavior in order to be used.
