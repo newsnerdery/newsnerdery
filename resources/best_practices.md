@@ -16,7 +16,7 @@
 
 ### Twitter
 
-<hr> 
+***
 
 ## Performance
 
@@ -38,7 +38,7 @@
 
 ### Resource Hints
 
-<hr> 
+***
 
 ## Risk
 
@@ -52,7 +52,7 @@
 
 ### Default Users Removed
 
-<hr> 
+***
 
 ## User Experience
 
@@ -64,7 +64,7 @@
 
 ### Service Worker
 
-<hr> 
+***
 
 ## User Security
 
