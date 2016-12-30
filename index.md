@@ -56,6 +56,6 @@ We have more than 40 Slack channels. We try to keep the list of channels pruned 
 * [#ruby](https://newsnerdery.slack.com/messages/ruby/)
 * [#wordpress](https://newsnerdery.slack.com/messages/wordpress/) - whyisjake
 
-The News Nerdery is a collaboration of [@aschweigert](https://github.com/aschweigert), [@danielbachhuber](https://github.com/danielbachhuber), [@davisshaver](https://github.com/davisshaver), @erikao, @gabelula, @jacqui, @knowtheory, @ryanpitts, @sisiwei, and its members.
+The News Nerdery is a collaboration of [@aschweigert](https://twitter.com/aschweigert), [@danielbachhuber](https://twitter.com/danielbachhuber), [@davisshaver](https://twitter.com/davisshaver), [@erikao](https://twitter.com/erikao), [@gabelula](https://twitter.com/gabelula), [@jacqui](https://twitter.com/jacqui), [@knowtheory](https://twitter.com/knowtheory), [@ryanpitts](https://twitter.com/ryanpitts), [@sisiwei](https://twitter.com/sisiwei), and its members.
 
 You can also follow [@newsnerdery](https://twitter.com/newsnerdery) on Twitter.
