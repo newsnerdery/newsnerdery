@@ -1,0 +1,14 @@
+theme: jekyll-theme-cayman
+
+# Setup
+title:        News Nerdery
+tagline:      An international meta organization to foster news nerd collaboration and knowledge sharing
+baseurl:      ""
+paginate:     1
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
