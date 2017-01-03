@@ -3,6 +3,7 @@ As a collaborative community, we believe in documenting and sharing our insights
 Here are the documentation efforts we've undertaken so far:
 
 - [**A Field Guide to Media Tech + Product**](/resources/field-guide).
+- [**Best Practices for News Sites**](/resources/best-practices).
 
 ## Related Documentation Eforts
 * [18F Guides](https://pages.18f.gov/guides/) - The repository for best practices across 18F project teams.
