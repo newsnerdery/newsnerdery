@@ -4,7 +4,9 @@ The world of media tech + product can be confusing at first. As a newly professi
 This field guide is meant to be useful primarily for college students and professors trying to become acquainted with this field, in hopes that we might help address [the pipeline problem](http://davisshaver.com/2015/08/18/weve-got-a-pipeline-problem-in-media-tech-product/) our industry currently faces.
 
 ## The roles
+
 ### Engineering
+
 #### Analytics/Data Science
 Analytics engineers wrangle the sea of data available to the modern media organizations, trying to spot the signal in the noise. Their go-to programming languages are Python and R, and they also use proprietary systems such as Google Analytics, Omniture, Tableau, and many others. 
 
@@ -21,6 +23,7 @@ Frontend engineers transform design concepts into interactive web pages using HT
 When this term first came out, it referred mainly to tools used by "developers" (any of the above roles) to assist in provisioning server resources and deployment. Now it is frequently a role in itself. Where as the traditional Operations Engineer (above) is focused primarily on maintaing the production systems that provide services to end-users, the DevOps Engineer is focused on maintaining tools and systems that help other Engineers keeping doing their jobs smoothly. They will use many of the same tools as an Operations Engineer (Vagrant, Docker, Configuration management, Version Control Systems), but for the purpose up building up development environments, when it is not practical or desirable to directly replicate production environments. Some companies don't distinguish between DevOps and Production Operations, and may refer to such combined roles by either name.
 
 ### Product/UX
+
 #### Product Manager
 Product managers synthesize and influence both the inputs and outputs of a product. Product managers start with the value proposition of a product – how is success being measured? – and work towards that goal by describing the vision to other roles within a team and articulating/organizing how each unit can contribute to the greater good. Product managers tend to be comfortable with the tools used by other roles, and often provide additional value by consolidating those disparate sources of information into a single narrative for organization leadership and other stakeholders.
 
@@ -34,7 +37,9 @@ User experience designers tend to do two types of work. The first involves new p
 QA and support team members vary in their level of technical ability. Some teams have QA engineers who specialize in automated testing of applications and websites, but more common is a QA/support role that falls closer to product than engineering. QA/support helps ensure that products are working as expected for the end user, whether that's a consumer, an employee, or another system. Bug tracking software is commonly used by these personnel, and you are likely to find them in issue tracking tools like Jira, Pivotal Tracker, Github, or Fogzilla, as well as communication tools such as Slack (for internal support) and email/messaging services (for external support).
 
 ## The tools
+
 ### Programming languages
+
 #### JavaScript
 Despite its name, JavaScript has little in common with Java. JavaScript's first life – and still its most prolific use – was as the fundamental "interactive" programming language of the web. Sitting alongside HTML and CSS as one of the big three, JavaScript threads between the two, making the site dynamic. For these uses of JavaScript, many people use [jQuery](https://jquery.com/), "the write less, do more, JavaScript library." Other popular libraries include [MooTools](http://mootools.net/) and [PrototypeJS](http://www.prototypejs.org/).
 
@@ -50,6 +55,7 @@ Python is a very general-purpose language - you'll find it in Web applications, 
 Ruby is another general-purpose language and competes with Python in many respects; if one developer uses Python for a task, another almost certainly will do the same in Ruby. It's most popular for its Web framework [Ruby on Rails](http://rubyonrails.org/). Through some quirk of history, editorial-side developers using Ruby seem to tend to work for New York-based organizations.
 
 ### Programming tools
+
 #### Git
 Git is version control system. It provides distributed, non-linear workflows that are particularly compatible with the agile methodology and collaborative development. The advantage of Git includes the ability to produce consistent change logs (_commits_), compare differences between different commits (_diff_), and branch off a particular version. “As in any VCS, you can lose or mess up changes you haven’t committed yet; but after you commit a snapshot into Git, it is very difficult to lose, especially if you regularly push your database to another repository.”([source](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics#Git-Generally-Only-Adds-Data)) You can use git on your local machine only, but to harness the power of an asynchronous workflow, it’s a good idea to pair it up with a remote destination (GitHub being one of the most popular).
 
@@ -76,6 +82,7 @@ A text editor is exactly what it says on the tin – a software programming for 
 A unit test is the core building block of [test-driven development](#test-driven-development). It tests the essence of a function. Unit tests should be written for all functions that take parameters and produce output. They should also be written for the "integration" of the various functions to test the final result. Refer to the TDD section of the field guide for more on this topic.
  
 ### Product management tools
+
 #### OmniGraffle/Basalmiq
 [OmniGraffle](https://www.omnigroup.com/omnigraffle) and [Balsamiq](https://balsamiq.com/) are tools popular for wireframing, the laying out of an interface using crude or "low-fidelity" stand-ins for the actual elements. Wireframes are an important part of the product development process, in which designers and product managers work from the abstract up to the concrete. This concept is well illustrated in Jesse James Garrett's [Elements of User Experience](http://www.jjg.net/elements/):
 ![uxpin-elements-of-user-experience-by-jesse-james-garrett](https://cloud.githubusercontent.com/assets/1636964/10003956/235673d0-607d-11e5-880c-dfa45d0f4d82.jpg)
@@ -96,6 +103,7 @@ Bonus: its clean interface and stripped-down functionality makes it way easier t
 A popular and feature-rich software project management system that can be configured for a wide range of use cases and methodologies. Where newer systems like Trello and PivotalTracker focus on doing one thing well, with a presupposition of an Agile methodology, Jira has plug-ins and configurability to serve any conceivable workflow, inclduing Waterfall Project Management, Help Desk Operations, Kanban & Scrum methodologies.  
 
 ## The methodologies
+
 ### Agile
 Agile is a management method that aims to deliver products iteratively and efficiently, and works best in a collaborative, open, and non-hierarchical team structure. The management is distributed across the team rather than with a single manager. After becoming popular in the software development community, agile methodology has been adopted by other fields. For example, a digital news product team could include editors, designers, developers, and a product manager. Designers work with editors to think through UX; developers advise designers about UI and data management; the product manager makes sure everyone is contributing constructively, adjust expectations, and sets milestones.
 
@@ -145,6 +153,7 @@ The repeated and systematic use of TDD and CI allows developers to move aggressi
 Different programming languages have their own unit test frameworks – some examples include [PHPUnit](https://phpunit.de/) for PHP, [RSpec](http://rspec.info/) for Ruby, [Jasmine](http://jasmine.github.io/) for JavaScript, and [pytest](http://pytest.org/) for Python.
 
 ## More resources
+
 ### Blog posts
 - [How to be happy in journalism if you hate being a reporter](https://medium.com/thoughts-on-journalism/how-be-happy-in-journalism-if-you-hate-being-a-reporter-330455b87aec) (Medium, Julia Haslanger)
 - [The need for product management in media](https://medium.com/@sundve/the-need-for-product-management-in-media-fe02cddf5ec3) (Medium, Espen Sundve)
