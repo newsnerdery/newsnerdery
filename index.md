@@ -1,4 +1,4 @@
-Hi! Welcome to News Nerdery.
+Hi! Welcome to News Nerdery 😃
 
 Want an invite to our [Slack](https://newsnerdery.slack.com)? [Email Daniel](mailto:d@danielbachhuber.com) to signup.
 

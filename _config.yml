@@ -4,11 +4,16 @@ theme: jekyll-theme-cayman
 title:        News Nerdery
 tagline:      An international meta organization to foster news nerd collaboration and knowledge sharing
 baseurl:      ""
-paginate:     1
+
+# SEO
+twitter:
+  username: newsnerdery
 
 # Gems
 gems:
-  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
 
 #Others
 markdown: kramdown
