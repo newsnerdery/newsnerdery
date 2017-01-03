@@ -1,4 +1,4 @@
-#Best Practices for News Sites
+# Best Practices for News Sites
 
 ## Distribution
 
