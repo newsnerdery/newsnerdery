@@ -1,6 +1,6 @@
 Hi! Welcome to News Nerdery 😃
 
-Want an invite to our [Slack](https://newsnerdery.slack.com)? [Email Daniel](mailto:d@danielbachhuber.com) to signup.
+Want an invite to our [Slack](https://newsnerdery.slack.com)? [Email Daniel](mailto:daniel@handbuilt.co) to signup.
 
 We have more than 40 Slack channels. We try to keep the list of channels pruned to active and generally applicable topics. We are in the process of identifying moderators for each channel, and we have listed their usernames where applicable.
 
