@@ -17,8 +17,8 @@ We have more than 40 Slack channels. We try to keep the list of channels pruned 
 * [#watercooler](https://newsnerdery.slack.com/messages/watercooler/)
 
 ## Geographic Channels
-* [#canada](https://newsnerdery.slack.com/messages/canada/)
 * [#california-civic-data](https://newsnerdery.slack.com/messages/california-civic-data/)
+* [#canada](https://newsnerdery.slack.com/messages/canada/)
 * [#eu-conference](https://newsnerdery.slack.com/messages/eu-conference/)
 * [#la](https://newsnerdery.slack.com/messages/la/)
 * [#pdx](https://newsnerdery.slack.com/messages/pdx/)
@@ -26,8 +26,8 @@ We have more than 40 Slack channels. We try to keep the list of channels pruned 
 * [#sf](https://newsnerdery.slack.com/messages/sf/)
 
 ## Community Channels
-* [#hacks-hackers](https://newsnerdery.slack.com/messages/hacks-hackers/)
 * [#design-snd-sndmakes](https://newsnerdery.slack.com/messages/design-snd-sndmakes/)
+* [#hacks-hackers](https://newsnerdery.slack.com/messages/hacks-hackers/)
 * [#mozfest](https://newsnerdery.slack.com/messages/mozfest/)
 * [#nicar](https://newsnerdery.slack.com/messages/nicar/)
 * [#srccon](https://newsnerdery.slack.com/messages/srccon/)
@@ -37,8 +37,9 @@ We have more than 40 Slack channels. We try to keep the list of channels pruned 
 * [#archiving](https://newsnerdery.slack.com/messages/archiving/)
 * [#databases](https://newsnerdery.slack.com/messages/databases/)
 * [#dataviz](https://newsnerdery.slack.com/messages/dataviz/)
-* [#foia](https://newsnerdery.slack.com/messages/foia/) - maggie_a_lee, markham
 * [#devops](https://newsnerdery.slack.com/messages/devops/)
+* [#foia](https://newsnerdery.slack.com/messages/foia/) - maggie_a_lee, markham
+* [#front-end](https://newsnerdery.slack.com/messages/front-end/)
 * [#games](https://newsnerdery.slack.com/messages/games/)
 * [#maps](https://newsnerdery.slack.com/messages/maps/)
 
@@ -47,11 +48,12 @@ We have more than 40 Slack channels. We try to keep the list of channels pruned 
 * [#election](https://newsnerdery.slack.com/messages/election/)
 
 ## Technology-Specific CHannels
+* [#chartbuilder](https://newsnerdery.slack.com/messages/chartbuilder/)
 * [#dataproofer](https://newsnerdery.slack.com/messages/dataproofer/)
 * [#documentcloud](https://newsnerdery.slack.com/messages/documentcloud/)
+* [#javascript](https://newsnerdery.slack.com/messages/javascript/)
 * [#postgres](https://newsnerdery.slack.com/messages/postgres/)
 * [#python](https://newsnerdery.slack.com/messages/python/)
-* [#javascript](https://newsnerdery.slack.com/messages/javascript/)
 * [#r](https://newsnerdery.slack.com/messages/r/)
 * [#ruby](https://newsnerdery.slack.com/messages/ruby/)
 * [#wordpress](https://newsnerdery.slack.com/messages/wordpress/) - whyisjake
