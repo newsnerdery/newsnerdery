@@ -38,6 +38,7 @@ We have more than 40 Slack channels. We try to keep the list of channels pruned 
 * [#databases](https://newsnerdery.slack.com/messages/databases/)
 * [#dataviz](https://newsnerdery.slack.com/messages/dataviz/)
 * [#foia](https://newsnerdery.slack.com/messages/foia/) - maggie_a_lee, markham
+* [#front-end](https://newsnerdery.slack.com/messages/front-end/)
 * [#devops](https://newsnerdery.slack.com/messages/devops/)
 * [#games](https://newsnerdery.slack.com/messages/games/)
 * [#maps](https://newsnerdery.slack.com/messages/maps/)
@@ -47,6 +48,7 @@ We have more than 40 Slack channels. We try to keep the list of channels pruned 
 * [#election](https://newsnerdery.slack.com/messages/election/)
 
 ## Technology-Specific CHannels
+* [#chartbuilder](https://newsnerdery.slack.com/messages/chartbuilder/)
 * [#dataproofer](https://newsnerdery.slack.com/messages/dataproofer/)
 * [#documentcloud](https://newsnerdery.slack.com/messages/documentcloud/)
 * [#postgres](https://newsnerdery.slack.com/messages/postgres/)
