@@ -42,6 +42,7 @@ We have more than 40 Slack channels. We try to keep the list of channels pruned 
 * [#foia](https://newsnerdery.slack.com/messages/foia/) - maggie_a_lee, markham
 * [#front-end](https://newsnerdery.slack.com/messages/front-end/)
 * [#games](https://newsnerdery.slack.com/messages/games/)
+* [#longform](https://newsnerdery.slack.com/messages/longform/) – joemurph
 * [#maps](https://newsnerdery.slack.com/messages/maps/)
 
 ## Story-Specific Channels
