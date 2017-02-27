@@ -34,6 +34,7 @@ We have more than 40 Slack channels. We try to keep the list of channels pruned 
 * [#srccon](https://newsnerdery.slack.com/messages/srccon/)
 
 ## Practice-Specific Channels
+* [#accessibility](https://newsnerdery.slack.com/messages/accessibility/) – joemurph
 * [#analytics](https://newsnerdery.slack.com/messages/analytics/)
 * [#archiving](https://newsnerdery.slack.com/messages/archiving/)
 * [#databases](https://newsnerdery.slack.com/messages/databases/)
