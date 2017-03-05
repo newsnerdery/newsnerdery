@@ -32,6 +32,7 @@ We have more than 40 Slack channels. We try to keep the list of channels pruned 
 * [#mozfest](https://newsnerdery.slack.com/messages/mozfest/)
 * [#nicar](https://newsnerdery.slack.com/messages/nicar/)
 * [#nicar-conversations](https://newsnerdery.slack.com/messages/nicar-conversations/) - erikao, eads, brmayes
+* [#public-radio](https://newsnerdery.slack.com/messages/public-radio/) - eads
 * [#srccon](https://newsnerdery.slack.com/messages/srccon/)
 
 ## Practice-Specific Channels
