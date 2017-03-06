@@ -85,3 +85,5 @@ The `newsnerdery.org` domain is owned by Daniel Bachhuber.
 #### Google Analytics
 
 Google Analytics is used to track visitors on the `newsnerdery.org` domain using the profile `UA-62547806-1`. That account is managed by Davis Shaver and Daniel Bachhuber. Read access is available to core moderators.
+
+_This document inspired by [VVV](https://github.com/Varying-Vagrant-Vagrants/VVV/pull/1118)._
