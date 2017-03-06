@@ -79,6 +79,10 @@ The [News Nerdery GitHub organization](https://github.com/newsnerdery) is owned 
 
 The News Nerdery website is located at [https://newsnerdery.org](https://newsnerdery.org). The website is currently the [only repository in News Nerdery's Github organization](https://github.com/newsnerdery/newsnerdery) and it is hosted using Github's Pages feature.
 
+### Twitter
+
+News Nerdery has registered a Twitter handle, [@NewsNerdery](https://www.twitter.com/newsnerdery). @TODO document who owns this.
+
 #### Domain name
 
 The `newsnerdery.org` domain is owned by Daniel Bachhuber.
