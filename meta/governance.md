@@ -26,17 +26,17 @@ Core moderators are trusted to administer News Nerdery services such as Slack an
 
 Current core moderators:
 
-* Adam Schweigart
-* Arjuna Soriano
-* Daniel Bachhuber
-* Erika Owens
+* [Adam Schweigert](https://twitter.com/aschweig)
+* [Arjuna Soriano](https://twitter.com/arjunasoriano)
+* [Daniel Bachhuber](https://twitter.com/danielbachhuber)
+* [Erika Owens](https://twitter.com/erika_owens)
 * Gabe Lula
-* Hanna Sender
-* Jacqui Maher
-* Miranda Mulligan
-* Ryan Pitts
-* Sisi Wei
-* Ted Han
+* [Hanna Sender](https://twitter.com/no_such_zone)
+* [Jacqui Maher](https://twitter.com/jacqui)
+* [Miranda Mulligan](https://twitter.com/jmm)
+* [Ryan Pitts](https://twitter.com/ryanpitts)
+* [Sisi Wei](https://twitter.com/sisiwei)
+* [Ted Han](https://twitter.com/knowtheory/)
 
 Inclusive of the lead, there should be a dozen core moderators at any given time. There is no fixed term length and existing mods have discretion to fill seats as interest and need warrants. Best efforts should be made to keep a diverse demographic and professional representation across the group.
 
