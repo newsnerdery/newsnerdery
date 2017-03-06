@@ -75,13 +75,13 @@ News Nerdery was created by Daniel Bachhuber at Bar Camp News Innovation 2014 in
 
 The [News Nerdery GitHub organization](https://github.com/newsnerdery) is owned by Daniel Bachuber, and it's Daniel's email address that is assigned as the "Billing email". Ted Han's membership level is also set to "Owner". All core mods have permissions to create new repositories and edit existing ones. The organization is currently configured under the free plan and there are no private repositories.
 
-### NewsNerdery.org
-
-The News Nerdery website is located at [https://newsnerdery.org](https://newsnerdery.org). The website is currently the [only repository in News Nerdery's Github organization](https://github.com/newsnerdery/newsnerdery) and it is hosted using Github's Pages feature.
-
 ### Twitter
 
 News Nerdery has registered a Twitter handle, [@NewsNerdery](https://www.twitter.com/newsnerdery). @TODO document who owns this.
+
+### NewsNerdery.org
+
+The News Nerdery website is located at [https://newsnerdery.org](https://newsnerdery.org). The website is currently the [only repository in News Nerdery's Github organization](https://github.com/newsnerdery/newsnerdery) and it is hosted using Github's Pages feature.
 
 #### Domain name
 
