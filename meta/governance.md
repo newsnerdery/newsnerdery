@@ -32,6 +32,7 @@ Current core moderators:
 * [Erika Owens](https://twitter.com/erika_owens)
 * Gabe Lula
 * [Hanna Sender](https://twitter.com/no_such_zone)
+* [Davis Shaver](https://twitter.com/davisshaver)
 * [Jacqui Maher](https://twitter.com/jacqui)
 * [Miranda Mulligan](https://twitter.com/jmm)
 * [Ryan Pitts](https://twitter.com/ryanpitts)
