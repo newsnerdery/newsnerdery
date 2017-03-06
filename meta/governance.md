@@ -4,7 +4,7 @@
 
 News Nerdery is governed with a [benevolent dictator governance model](http://producingoss.com/en/benevolent-dictator.html).
 
-In general, this means that News Nerdery is maintained by a community of active contributors. Most decisions are made in this context and contributions are always welcome. The project lead performs a role of project leadership and community oversight.
+In general, this means that News Nerdery is maintained by a community of active contributors. Most decisions are made in this context and contributions are always welcome. The lead performs a role of project leadership and community oversight.
 
 ## Roles and Responsibilities
 
@@ -12,11 +12,11 @@ In general, this means that News Nerdery is maintained by a community of active 
 
 The lead is trusted to set an overall strategic direction and, as necessary, to provide a final say in any arguments or disputes. They have full access to services associated with News Nerdery. With the input of the core moderators, they maintain community standards and activities and assign roles within the community.
 
-Current project lead:
+Current lead:
 
 * [Ted Han](https://twitter.com/knowtheory/)
 
-The current project lead assumed the role after project founder [Daniel Bachhuber](https://twitter.com/danielbachhuber) transitioned out of the project. At the time of Daniel's departure, the group of core moderators was an informal and undocumented organization that consented to name Ted as Daniel's replacement. This document reflects an effort to better codify this organization's governance in anticipation of such a transition in the future.
+The current lead assumed the role after founder [Daniel Bachhuber](https://twitter.com/danielbachhuber) transitioned out of the project. At the time of Daniel's departure, the group of core moderators was an informal and undocumented organization that consented to name Ted as Daniel's replacement. This document reflects an effort to better codify this organization's governance in anticipation of such a transition in the future.
 
 When a lead indicates desire to transition out of the role, core moderators will be able to select a replacement from among their own ranks, or delegate a steering committee to make a recommendation.
 
@@ -39,6 +39,14 @@ Current core moderators:
 * Ted Han
 
 Inclusive of the lead, there should be a dozen core moderators at any given time. There is no fixed term length and existing mods have discretion to fill seats as interest and need warrants. Best efforts should be made to keep a diverse demographic and professional representation across the group.
+
+The core moderators, along with the lead, maintain standards and documentation of the following organizational aspects:
+
+- New member process
+- New channel process
+- Responsibilities of moderators and lead
+- Community standards and code of conduct
+- News Nerdery content & programming
 
 ### Channel Moderators
 
