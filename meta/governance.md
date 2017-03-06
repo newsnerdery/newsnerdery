@@ -42,11 +42,11 @@ Inclusive of the lead, there should be a dozen core moderators at any given time
 
 The core moderators, along with the lead, maintain standards and documentation of the following organizational aspects:
 
-- New member process
-- New channel process
-- Responsibilities of moderators and lead
-- Community standards and code of conduct
-- News Nerdery content & programming
+* New member process
+* New channel process
+* Responsibilities of moderators and lead
+* Community standards and code of conduct
+* News Nerdery content and programming
 
 ### Channel Moderators
 
