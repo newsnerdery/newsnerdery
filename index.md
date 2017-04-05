@@ -6,11 +6,13 @@ We have more than 40 Slack channels. We try to keep the list of channels pruned 
 
 ## Core Channels
 * [#00-nn-announcements](https://newsnerdery.slack.com/messages/00-nn-announcements/)
+* [#career](https://newsnerdery.slack.com/messages/career/)
 * [#docs](https://newsnerdery.slack.com/messages/docs/)
 * [#future-of-news](https://newsnerdery.slack.com/messages/future-of-news/)
 * [#helpme](https://newsnerdery.slack.com/messages/helpme/)
 * [#intros](https://newsnerdery.slack.com/messages/intros/)
 * [#jobs](https://newsnerdery.slack.com/messages/jobs/)
+* [#podcasting](https://newsnerdery.slack.com/messages/podcsating/) - oiler
 * [#meta](https://newsnerdery.slack.com/messages/meta/)
 * [#must-reads](https://newsnerdery.slack.com/messages/must-reads/)
 * [#trivial-pursuits](https://newsnerdery.slack.com/messages/trivial-pursuits/)
@@ -52,7 +54,7 @@ We have more than 40 Slack channels. We try to keep the list of channels pruned 
 * [#doc-leaks](https://newsnerdery.slack.com/messages/doc-leaks/)
 * [#election](https://newsnerdery.slack.com/messages/election/)
 
-## Technology-Specific CHannels
+## Technology-Specific Channels
 * [#chartbuilder](https://newsnerdery.slack.com/messages/chartbuilder/)
 * [#dataproofer](https://newsnerdery.slack.com/messages/dataproofer/)
 * [#documentcloud](https://newsnerdery.slack.com/messages/documentcloud/)
