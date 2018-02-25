@@ -51,6 +51,7 @@ We have more than 40 Slack channels. We try to keep the list of channels pruned 
 * [#maps](https://newsnerdery.slack.com/messages/maps/)
 
 ## Story-Specific Channels
+* [#census](https://newsnerdery.slack.com/messages/census/)
 * [#doc-leaks](https://newsnerdery.slack.com/messages/doc-leaks/)
 * [#election](https://newsnerdery.slack.com/messages/election/)
 
