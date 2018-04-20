@@ -20,7 +20,7 @@ We have more than 40 Slack channels. We try to keep the list of channels pruned 
 
 ## Geographic Channels
 * [#california-civic-data](https://newsnerdery.slack.com/messages/california-civic-data/)
-* [#dc](https://newsnerdery.slack.com/messages/dc/) - soo
+* [#dc](https://newsnerdery.slack.com/messages/dc/)
 * [#canada](https://newsnerdery.slack.com/messages/canada/)
 * [#eu-conference](https://newsnerdery.slack.com/messages/eu-conference/)
 * [#la](https://newsnerdery.slack.com/messages/la/)
