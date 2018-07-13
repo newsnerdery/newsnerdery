@@ -64,10 +64,6 @@ Channels with moderators are listed below:
 
 News Nerdery members interested in being a channel moderator for a new or existing channel should contact a core moderator, or post their request in the [#meta](https://newsnerdery.slack.com/messages/meta/) channel.
 
-## Project Founders
-
-News Nerdery was created by Daniel Bachhuber at Bar Camp News Innovation 2014 in Philadelphia during a conversation lead by Erika Owens and Davis Shaver. 
-
 ## Project Administration
 
 ### GitHub organization
