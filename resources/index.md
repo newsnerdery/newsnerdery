@@ -17,7 +17,7 @@ Here are the documentation efforts we've undertaken so far:
 * [The Remote Manifesto](https://about.gitlab.com/2015/04/08/the-remote-manifesto/) - GitLab
 * [Managing Across Time Zones](http://martiancraft.com/blog/2015/04/managing-time/) - MartianCraft
 * [Communication for Distributed Teams](https://www.lullabot.com/articles/communication-for-distributed-teams) - Lullabot
-* [Why Remote Work Thrives in Some Companies and Fails in Other](https://hbr.org/2015/03/why-remote-work-thrives-in-some-companies-and-fails-in-others) - Harvard Business Review (metered paywall)
+* [Why Remote Work Thrives in Some Companies and Fails in Others](https://hbr.org/2015/03/why-remote-work-thrives-in-some-companies-and-fails-in-others) - Harvard Business Review (metered paywall)
 * [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - A huge list of links
 * [The Villains of Remote Work](https://blog.dnsimple.com/2016/10/the-villains-of-remote-work/) - DNSimple
 * [The Definitive Guide to Remote Development Teams](https://x-team.gitbooks.io/remote-team-guide/first-page.html) - X-Team
