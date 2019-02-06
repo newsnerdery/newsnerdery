@@ -12,8 +12,12 @@
 
 ## Lists of lists of events
 
+News lists:
 - [OpenNews Source's list of event roundups](https://source.opennews.org/articles/tags/events/)
 - [Hacks/Hackers event list](https://hackshackers.com/)
 - [IRE events and training calendar](https://www.ire.org/events-and-training)
 - [ONA events calendar](https://journalists.org/events/)
 - [SND events calendar](https://www.snd.org/industry-events/)
+
+Relevant tech lists:
+- [CSS-Tricks' list of front-end design and dev conferences](https://conferences.css-tricks.com/)
