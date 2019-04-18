@@ -6,7 +6,7 @@
 | [<abbr title="Investigative Reporters and Editors' Computer Assisted Reporting conference">NICAR</abbr>](https://www.ire.org/conferences) | March | Computer-assisted reporting | United States |
 | [<abbr title="Society for News Design">SND</abbr>](https://www.snd.org/training/) | April | Design | United States |
 | [SRCCON](https://srccon.org/) | June | Teamwork challenges in news | United States |
-| [Media Party](http://mediaparty.info/en/) | August | Buenos Aires |
+| [Media Party](http://mediaparty.info/en/) | August | The future of news | Buenos Aires |
 | [WordCamp for Publishers](https://twitter.com/wcpublishers/) | August | WordPress | United States |
 | [<abbr title="Online News Association">ONA</abbr>](https://journalists.org/events/) | September | Online news | United States |
 
