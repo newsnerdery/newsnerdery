@@ -4,6 +4,7 @@ Here are the documentation efforts we've undertaken so far:
 
 - [**A Field Guide to Media Tech + Product**](/resources/field-guide)
 - [**Best Practices for News Sites**](/resources/best-practices)
+- [**JavaScript template rigs**](/resources/template-rigs)
 - [**List of Journalism/Tech Conferences**](/resources/conferences)
 
 ## Related Documentation Eforts
