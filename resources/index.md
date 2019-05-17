@@ -7,7 +7,7 @@ Here are the documentation efforts we've undertaken so far:
 - [**JavaScript template rigs**](/resources/template-rigs)
 - [**List of Journalism/Tech Conferences**](/resources/conferences)
 
-## Related Documentation Eforts
+## Related Documentation Efforts
 * [18F Guides](https://pages.18f.gov/guides/) - The repository for best practices across 18F project teams.
 * [fusioneng/tech-docs](https://github.com/fusioneng/tech-docs) - Fusion's internal but public technology tools and process documentation.
 * [INN/docs](https://github.com/INN/docs) - INN News Apps And Technology Team Docs.
